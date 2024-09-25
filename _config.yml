@@ -1,11 +1,11 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Song to Myself
+title:               Whitman
 tagline:             'A project about Song of Myself (LII) in translation'
 description:         'something abt ww in translation pointing out borges'
 url:                 ''
-baseurl:             '/songtomyself'
+baseurl:             '/Whitman'
 
 # About/contact
 author:
