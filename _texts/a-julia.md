@@ -1,12 +1,12 @@
 ---
 layout: poem
-title: A Julia de Burgos
-author: Julia de Burgos
-editor: Alex Gil
-source: Ciudad Seva
+title: Song of Myself
+author: Walt Whitman
+editor: Nuria Sanchez
+source: Leaves of Grass, 1855
 ---
 
-- Ya las gentes murmuran que yo soy tu enemiga
+- The spotted hawk swoops by and accuses me.... he complains of my gab and my loitering.
 - porque dicen que en verso doy al mundo mi yo.
 
 - Mienten, *Julia de Burgos*. Mienten, Julia de Burgos.
