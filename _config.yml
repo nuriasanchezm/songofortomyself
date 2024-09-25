@@ -5,7 +5,7 @@ title:               Whitman
 tagline:             'A project about Song of Myself (LII) in translation'
 description:         'something abt ww in translation pointing out borges'
 url:                 ''
-baseurl:             '/Whitman'
+baseurl:             '/songofortomyself'
 
 # About/contact
 author:
