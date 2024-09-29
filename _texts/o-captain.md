@@ -7,8 +7,8 @@ source: Mr. Poe Hyde Craft
 ---
 
 - El gavilán manchado desciendo sobre mí para acusarme de gárrulo y vagabundo. [^fn1]
-- Yo también soy indomable e intraducible,
-- {:.indent-2}y sobre los tejados del mundo, suelto mi graznido salvaje.
+- Yo también soy indomable eNOTA AL PIE INGLES intraducible,
+- {:.indent-2}y sobre los tejados del mundo, suelto mi graznido salvaje. NOTA AL PIE INGLES AND NO EXISTE EN WW
   
 - Los últimos celajes del día se detienen para esperarme,
 - lanzan mi figura corporal, con las demás imágenes, hacia el mundo callado de las sombras
@@ -27,12 +27,12 @@ source: Mr. Poe Hyde Craft
 - Soy la salud de tu cuerpo
 - {:.indent-2}y me filtro en tu sangre y la restauro.
 
-- Si no me encuentras en seguida,
+- Si no me encuentras en seguida [^fn4],
 - no te desanimes;
 - si no estoy en aquel sitio,
 - búscame en otro.
 - Te espero...,
-- en algún sitio estoy esperándote.
+- en algún sitio estoy esperándote. [^fn5]
 
 <br>
 
@@ -54,3 +54,15 @@ source: Mr. Poe Hyde Craft
 [^fn2]: The bugle is a small trumpet implicated in the military industrial complex.
 
 [^fn3]: Another footnote. Why not?
+
+[^fn4]: "en seguida" [sic]
+
+[^fn5]: Whitman's original:
+
+	> - Failing to fetch me at first keep encouraged,
+	> - Missing me one place search another,
+	> - I stop some where waiting for you
+	{:.poetry}
+ 
+ While Whitman used a gerundive construction, Borges opted for a conditional.
+
