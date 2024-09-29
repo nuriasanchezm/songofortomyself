@@ -8,7 +8,7 @@ source: Mr. Poe Hyde Craft
 
 - El gavilán manchado desciende sobre mí para acusarme de gárrulo y vagabundo. 
 - Yo también soy indomable e intraducible,[^fn1]
-- {:.indent-2}y [^fn2] sobre los tejados del mundo, suelto mi graznido salvaje. 
+- {:.indent-2}y[^fn2] sobre los tejados del mundo, suelto mi graznido salvaje. 
   
 - Los últimos celajes del día se detienen para esperarme,
 - lanzan mi figura corporal, con las demás imágenes, hacia el mundo callado de las sombras[^fn3]
@@ -19,7 +19,7 @@ source: Mr. Poe Hyde Craft
 - vierto mi carne en los remolinos
 - {:.indent-2}y la dejo marchar a la deriva entre la espuma de las ondas.
 
-- Me doy al barro para crecer en la hierba que amo.[^fn4],
+- Me doy al barro para crecer en la hierba que amo.[^fn4]
 - Si me necesitas aún, búscame bajo las suelas de tus zapatos.
   
 - Apenas sabrás quién soy
@@ -46,7 +46,6 @@ source: Mr. Poe Hyde Craft
  in the poem to fit the Spanish language, here getting rid of the copulative structure, which yealds a clearer, faster line in Spanish:
 
 	> - I too am not a bit tamed . . . . I too am untranslatable
- 	Walt Whitman, [Leaves of Grass](https://bailiwick.lib.uiowa.edu/whitman/1855.html), 1855, Electronic Text Center, University of Virginia Library.
 	{:.poetry}
 
 [^fn2]: However, and possibly to restore the rhythm, León Felipe adds a copulative sentence at the end of almost every stanza (I added indents to make it more evident, but the editors did not use them),which [Whitman](https://whitmanarchive.org/item/uva.00570) did not use. Insofar, then, both Whitman and León Felipe use either copulative syntax or sentences, the first one to give the poem rhythm *inside of the stanza*, the latter to set it *among stanzas*.
