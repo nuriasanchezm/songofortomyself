@@ -51,12 +51,11 @@ source: Mr. Poe Hyde Craft
 
 [^fn2]: However, and possibly to restore the rhythm, León Felipe adds a copulative sentence at the end of almost every stanza (I added indents to make it more evident, but the editors did not use them),which [Whitman](https://whitmanarchive.org/item/uva.00570) did not use. Insofar, then, both Whitman and León Felipe use either copulative syntax or sentences, the first one to give the poem rhythm *inside of the stanza*, the latter to set it *among stanzas*.
 
-[^fn3]: There are at least two other Spanish translations, one by Francisco Alexander (Quito, 1956) and another one by Jorge Luis Borges (Buenos Aires, 1969, in print only). One of them, most likely Alexander's, says instead:
+[^fn3]: There are at least two other Spanish translations, one by Francisco Alexander (Quito, 1956) and another one by Jorge Luis Borges (Buenos Aires, 1969, in print only). One of them, most likely Alexander's, says instead the following. I argue it is most likely Alexander's because Borges stated in the [Prologue](https://circulodepoesia.com/2019/05/jorge-luis-borges-sobre-walt-whitman/) of his own translation, "he consultado con provecho la de Francisco Alexander (Quito, 1956), que sigue pareciéndome la mejor, aunque suele incurrir en excesos de literalidad, que podemos atribuir a la reverencia o tal vez a un abuso del diccionario inglés-español." Although unfaithful to Whitman's *literal meaning*, León Felipe better succeeds in capturing the image of the shadows in the sunset. About the radical importance of unfaithful translations, consult Sergio Gabriel Waisman [*Borges and ranslation the irreverence of the periphery*](https://search.library.yale.edu/catalog/13555204), 2005.
 
 	> - Proyecta mi imagen, después de las otras, y es más verdadera que otra cualquiera sobre las landas invadidas por la sombra.
  {:.poetry}
- 	I argue it is most likely Alexander's because Borges stated in the [Prologue](https://circulodepoesia.com/2019/05/jorge-luis-borges-sobre-walt-whitman/) of his own translation, "he consultado con provecho la de Francisco Alexander (Quito, 1956), que sigue pareciéndome la mejor, aunque suele incurrir en excesos de literalidad, que podemos atribuir a la reverencia o tal vez a un abuso del diccionario inglés-español." Although unfaithful to Whitman's *literal meaning*, León Felipe better succeeds in capturing the image of the shadows in the sunset. About the radical importance of unfaithful translations, consult Sergio Gabriel Waisman [*Borges and ranslation the irreverence of the periphery*](https://search.library.yale.edu/catalog/13555204), 2005.
-
+ 	
 [^fn4]: Alexander's translation rends this love impersonal, while Whitman and León Felipe ground it to the first person:
 	> - Me entrego al barro para renacer en la hierba amada
  	{:.poetry}
@@ -67,7 +66,7 @@ source: Mr. Poe Hyde Craft
 	> - Missing me one place search another,
  	{:.poetry}
 
-  [^fn5]: Lastly, Whitman's and Alexander's version(s) give somehow more importance to the fact that the poetic voice has stopped itself, whereas León Felipe's emphazises how dearly he waits (and hence is static):
+  [^fn6]: Lastly, Whitman's and Alexander's version(s) give somehow more importance to the fact that the poetic voice has stopped itself, whereas León Felipe's emphazises how dearly he waits (and hence is static):
 	> - I stop some where waiting for you.
 	 {:.poetry}
  
