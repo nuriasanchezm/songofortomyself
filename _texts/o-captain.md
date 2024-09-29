@@ -1,7 +1,7 @@
 ---
 layout: poem
 title: Canto a mí mismo (LII)
-author: Walt Whitman traducido por Jorge Luis Borges
+author: Walt Whitman traducido por León Felipe
 editor: Nuria Sanchez
 source: Mr. Poe Hyde Craft
 ---
@@ -62,7 +62,9 @@ source: Mr. Poe Hyde Craft
 	> - Failing to fetch me at first keep encouraged,
 	> - Missing me one place search another,
 	> - I stop some where waiting for you
+ 
+  While Whitman used a gerundive construction, León Felipe opted for a conditional.
 	{:.poetry}
  
- While Whitman used a gerundive construction, Borges opted for a conditional.
+
 
