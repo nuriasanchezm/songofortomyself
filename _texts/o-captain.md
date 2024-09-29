@@ -58,13 +58,13 @@ source: Mr. Poe Hyde Craft
  	
 [^fn4]: Alexander's translation rends this love impersonal, while Whitman and León Felipe ground it to the first person:
 	> - Me entrego al barro para renacer en la hierba amada
- 	{:.poetry}
+ 	
   
 [^fn5]:  While Whitman used a gerundive construction, León Felipe opted for a conditional, which makes the imperative mode softer, kinder, welcoming:
 
 	> - Failing to fetch me at first keep encouraged,
 	> - Missing me one place search another,
- 	{:.poetry}
+ 
 
   [^fn6]: Lastly, Whitman's and Alexander's version(s) give somehow more importance to the fact that the poetic voice has stopped itself, whereas León Felipe's emphazises how dearly he waits (and hence is static):
 	> - I stop some where waiting for you.
